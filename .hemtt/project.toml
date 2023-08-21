@@ -1,0 +1,36 @@
+name = "183rd"
+mainprefix = "z"
+prefix = "oeta"
+author = "YonV"
+
+[files]
+include = [
+    "mod.cpp",
+    "README.md",
+    "LICENSE",
+    "3rdparty",
+    "AUTHORS.txt",
+    "183rd.paa",
+]
+
+[lint.sqf]
+enabled = true # Default: true
+exclude = [
+    "a3/3DEN/UI/macroexecs.inc",
+    "macroexecs.inc",
+    "initSettings.sqf",
+    "a3/ui_f/hpp/defineResincl.inc",
+    "a3/ui_f/hpp/defineDIKCodes.inc",
+    "a3/ui_f/hpp/defineCommonGrids.inc",
+    "a3/ui_f/hpp/defineCommonColors.inc",
+]
+
+[Rapify]
+exclude = [
+    "macroexecs.inc"
+]
+
+[asc]
+enabled = true # Default: false
+exclude = [
+]

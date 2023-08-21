@@ -1,0 +1,10 @@
+name = "183rd V2";
+picture = "183rd.paa";
+description = "Dagger Mod";
+logo = "183rd.paa";
+logoOver = "183rd.paa";
+tooltip = "Dagger Mod";
+tooltipOwned = "Project Template Weee";
+overview = "183rd Air Assault Unit [183rd] Custom Mod  V2";
+author = "YonV";
+overviewPicture = "183rd.paa";
