@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OETA">
+    <Package name="Friendly_Fire">
+        <Key ID="STR_OETA_Friendly_Fire_DisplayName">
+            <English>183rd Air Assault - Friendly Fire</English>
+            <Polish>183rd Air Assault - Ogień sojuszniczy</Polish>
+        </Key>
+        <Key ID="STR_OETA_Friendly_Fire_Logging_Enabled">
+            <English>Friendly fire logging</English>
+            <Polish>Logowanie ognia sojuszniczego</Polish>
+        </Key>
+    </Package>
+</Project>

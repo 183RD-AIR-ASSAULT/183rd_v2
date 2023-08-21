@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OETA">
+    <Package name="Grass">
+        <Key ID="STR_OETA_Grass_DisplayName">
+            <English>183rd Air Assault - Grass</English>
+            <Polish>183rd Air Assault - Trawa</Polish>
+        </Key>
+        <Key ID="STR_OETA_Grass_Forced">
+            <English>Force Grass</English>
+            <Polish>Wymuś trawę</Polish>
+        </Key>
+        <Key ID="STR_OETA_Grass_Forced_Description">
+            <English>Forces grass for all players</English>
+            <Polish>Wymusza trawę u wszystkich graczy</Polish>
+        </Key>
+    </Package>
+</Project>

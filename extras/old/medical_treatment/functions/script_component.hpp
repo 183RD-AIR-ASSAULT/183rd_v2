@@ -1,0 +1,1 @@
+#include "\z\oeta\addons\medical_treatment\script_component.hpp"

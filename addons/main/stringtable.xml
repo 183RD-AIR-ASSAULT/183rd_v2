@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OETA">
+    <Package name="Main">
+        <Key ID="STR_OETA_Main_Attributes">
+            <English>183rd Air Assault Attributes</English>
+            <Polish>Atrybuty 183rd Air Assault</Polish>
+        </Key>
+        <Key ID="STR_OETA_Main_Category">
+            <English>183rd Air Assault</English>
+        </Key>
+        <Key ID="STR_OETA_Main_Toolbar">
+            <English>183rd Air Assault</English>
+        </Key>
+        <Key ID="STR_OETA_Main_ToolbarWiki">
+            <English>Wiki</English>
+        </Key>
+    </Package>
+</Project>

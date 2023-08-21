@@ -1,0 +1,21 @@
+{
+    "inputDirs": [
+        "P:/z/oeta/addons/"
+    ],
+    "includePaths": [
+        "P:/"
+    ],
+    "excludeList": [
+        "initsettings.sqf",
+        "initkeybinds.sqf",
+        "initSettings.sqf",
+        "xeh_prep.sqf",
+        "XEH_PREP.sqf",
+        "XEH_PREP.hpp",
+        "\\initSettings.sqf",
+        "\\initkeybinds.sqf",
+        "\\xeh_prep.sqf"
+    ],
+    "outputDir": "P:/",
+    "workerThreads": 12
+}

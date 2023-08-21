@@ -1,0 +1,1 @@
+#include "\z\oeta\addons\acre\script_component.hpp"

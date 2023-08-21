@@ -1,0 +1,30 @@
+*.biprivatekey
+keys/*
+addons/*.pbo
+texHeaders.bin
+Thumbs.db
+*.cache
+*.swp
+*.swo
+@*
+*.zip
+extensions/vcproj32/*
+extensions/vcproj64/*
+.vscode/*
+tools/temp
+*.cache
+texHeaders.bin
+*.swp
+*.swo
+*.biprivatekey
+Thumbs.db
+*.sqfc
+releases/*
+optionals/*.pbo
+
+## Added by HEMTT
+####
+
+## Added by HEMTT
+.hemtt/local
+####

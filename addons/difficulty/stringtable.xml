@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OETA">
+    <Package name="Difficulty">
+        <Key ID="STR_OETA_Difficulty_DifficultyName">
+            <English>183rd Air Assault</English>
+        </Key>
+        <Key ID="STR_OETA_Difficulty_DifficultyDescription">
+            <English>Custom 183rd Air Assault settings.</English>
+            <Polish>Własne ustawienia 183rd Air Assault.</Polish>
+        </Key>
+    </Package>
+</Project>
